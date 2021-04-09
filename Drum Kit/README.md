@@ -1,1 +1,1 @@
-Basic Javascript Implementation 
+Mini DOM application based project
